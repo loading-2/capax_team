@@ -36,11 +36,6 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.3, type: "spring", stiffness: 100 }}
             className="flex justify-center"
           >
-            <img
-              src="https://assets-global.website-files.com/636bccf7762dd7f5b962f8d1/64198be962cfef95c0d37db1_hacker%20illustration.svg"
-              alt="loading..."
-              className="w-full max-w-md md:max-w-lg"
-            />
           </motion.div>
         </div>
       </div>
